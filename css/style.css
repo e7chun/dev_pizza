@@ -1,0 +1,109 @@
+body {
+	font-family: 'Flamenco', sans-serif;
+	background: #437dd4 repeat;
+	color: #FFFFFF;
+}
+
+h1 {
+	color: #FFA100;
+}
+
+ul.nav {
+	list-style: none;
+}
+
+ul.nav li {
+	float: left;
+	padding: 5px 30px;
+	border: solid 6px #FFFFFF;
+	border-radius: 10px;
+	margin: 0 auto;
+	font-size: 150%;
+	background: #ffa100;
+	font-color: #FFFFFF;
+}
+
+a {
+	text-decoration: none;
+}
+
+.btn {
+	color: #FFFFFF;
+	background: #FFA100 no-repeat ;
+	padding: 12px 30px;
+	margin: 40px 0px;
+	border-radius: 10px;
+	text-transform: uppercase;
+
+}
+
+.btn:hover {
+	background-color: #ffc540;
+}
+
+
+
+#Plain img{
+	border: solid 6px #FFFFFF;
+
+}
+
+#Pepperoni img{
+	border: solid 6px #FFFFFF;
+}
+
+#Sausage img{
+	border: solid 6px #FFFFFF;
+}
+
+#Bacon img{
+	border: solid 6px #FFFFFF;
+}
+
+#Anchovies img{
+	border: solid 6px #FFFFFF;
+}
+
+#Capocollo img{
+	border: solid 6px #FFFFFF;
+}
+
+#Peppers img{
+	border: solid 6px #FFFFFF;
+}
+
+#Onion img{
+	border: solid 6px #FFFFFF;
+}
+
+#Hamburger img{
+	border: solid 6px #FFFFFF;
+}
+
+#Korean img{
+	border: solid 6px #FFFFFF;
+}
+
+#Pasta img{
+	border: solid 6px #FFFFFF;
+}
+
+#Hawaiian img{
+	border: solid 6px #FFFFFF;
+}
+
+#Meat_Lover img{
+	border: solid 6px #FFFFFF;
+}
+
+#Seafood img{
+	border: solid 6px #FFFFFF;
+}
+
+#Curry img{
+	border: solid 6px #FFFFFF;
+}
+
+#Cheesesteak img{
+	border: solid 6px #FFFFFF;
+}
